@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://status.shareyourgroup.com/sitemap.xml
